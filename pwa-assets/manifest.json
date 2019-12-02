@@ -2,7 +2,7 @@
  "name": "PWA",
  "short_name": "PWA",
  "lang": "da-DK",
- "start_url": "./",
+ "start_url": "https://iamavondale.github.io/pwa/",
  "display": "standalone",
  "theme_color": "#2e344e",
  "icons": [
