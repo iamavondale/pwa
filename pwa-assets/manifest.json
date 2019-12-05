@@ -4,6 +4,7 @@
  "lang": "da-DK",
  "start_url": "https://iamavondale.github.io/pwa/",
  "display": "standalone",
+ "background_color": "#2e344e",
  "theme_color": "#2e344e",
  "icons": [
   {
